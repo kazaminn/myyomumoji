@@ -1,0 +1,6 @@
+[submodule "apps/api"]
+	path = apps/api
+	url = https://github.com/kazaminn/myyomumoji-api.git
+[submodule "apps/client"]
+	path = apps/client
+	url = https://github.com/kazaminn/myyomumoji-client.git
