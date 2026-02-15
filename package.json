@@ -1,0 +1,8 @@
+{
+  "name": "myyomumoji",
+  "version": "0.1.0",
+  "description": "api and client wrapper",
+  "workspaces": [
+    "packages/shared"
+  ]
+}
