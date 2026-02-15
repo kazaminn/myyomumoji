@@ -4,5 +4,10 @@
   "description": "api and client wrapper",
   "workspaces": [
     "packages/shared"
-  ]
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^20.4.1",
+    "@commitlint/config-conventional": "^20.4.1",
+    "husky": "^9.1.7"
+  }
 }
