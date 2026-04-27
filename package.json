@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "api and client wrapper",
   "workspaces": [
-    "packages/shared"
+    "app/*",
+    "packages/*"
   ],
   "devDependencies": {
     "@commitlint/cli": "^20.4.1",
